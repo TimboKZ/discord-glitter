@@ -1,0 +1,27 @@
+{
+  "name": "discord-glitter",
+  "version": "1.0.0",
+  "description": "Animated text messages for your Discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimboKZ/discord-glitter.git"
+  },
+  "keywords": [
+    "discord",
+    "animated-text",
+    "text",
+    "animation",
+    "discord-bot",
+    "bot"
+  ],
+  "author": "Timur Kuzhagaliye",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/TimboKZ/discord-glitter/issues"
+  },
+  "homepage": "https://github.com/TimboKZ/discord-glitter#readme"
+}

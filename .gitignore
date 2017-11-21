@@ -1,3 +1,10 @@
+# Idea and Vim
+/.idea
+*.swp
+
+# Bot config
+/test/config.json
+
 # Logs
 logs
 *.log
