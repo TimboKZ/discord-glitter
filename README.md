@@ -1,6 +1,8 @@
 # Discord Glitter
 🌠🎇 Animated text messages for your Discord server.
 
+![Discord Glitter - animated text messages for Discord](./discord-glitter.gif)
+
 > As one can imagine, this bot doesn't really work in practice since Discord rate-limits requests to its API. That said,
 it can yield some nice results for short animations with low frame rate.
 
