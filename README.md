@@ -21,14 +21,14 @@ const Glitter = require('discord-glitter');
 
 const glitter = new Glitter({
     token: 'your_secret_token',
-    //prefix: '@g', /* Custom prefix for bot commands. */
+    //prefix: '!g', /* Custom prefix for bot commands. */
 });
 
 glitter.start();
 ```
 
 Activate Glitter by sending a command `!g` or `!g <some string>` to any channel of your server. You can specify
-animation types using `!g|<type>`, the currently supported types are `flash` and `scan`. Example commands:
+animation types using `!g|<type>`, currently supported types are `flash` and `scan`. Example commands:
 
 ```
 !g
