@@ -23,5 +23,10 @@
   "bugs": {
     "url": "https://github.com/TimboKZ/discord-glitter/issues"
   },
-  "homepage": "https://github.com/TimboKZ/discord-glitter#readme"
+  "homepage": "https://github.com/TimboKZ/discord-glitter#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "discord.js": "^11.2.1",
+    "double-ended-queue": "^2.1.0-0"
+  }
 }
